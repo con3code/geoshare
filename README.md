@@ -2,6 +2,8 @@
 
 Geolocation share app.
 
+![alt text](assets/shots/gs_login1.png)　![alt text](assets/shots/gs_map1.png)
+
 ## Getting Started
 
 This project is a Flutter application.
